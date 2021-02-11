@@ -1,5 +1,7 @@
 # Google Clone with React.js
 
+![Alt Text](https://github.com/5ebs/Google-Clone/blob/main/g.gif)
+
 
 
 # Getting Started with Create React App
