@@ -2,6 +2,8 @@
 
 ![Alt Text](https://github.com/5ebs/Google-Clone/blob/main/g.gif)
 
+I developed a fully functional and responsive Google Search clone from scratch with React.js. This web application allows you to do searches like the actual Google through the use of Google Search API.
+Technologies: React.js, Context API, Material UI, React Router, Google Search API, Firebase Hosting.
 
 
 # Getting Started with Create React App
